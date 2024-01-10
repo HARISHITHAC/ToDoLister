@@ -1,8 +1,9 @@
-This is a simple  Todo list app used for operating daily tasks developed in Kotlin with sqlite storage.It also includes notification feature to remind users of taks at specific dates and times.
+This is a simple  Todo list app used for operating daily tasks developed in Java  with sqlite storage.It also includes notification feature to remind users of tasks at specific dates and times.
+IDE used: Android Studio
 Features:
-Create, read and delete tasks
-Schedule notifications for tasks with specific due dates and times
-Receive notifications to remind upcoming tasks.
+.Create, read and delete tasks
+.Schedule notifications for tasks with specific due dates and times
+.Receive notifications to remind upcoming tasks.
 Tech stack and open-source libraries:
 Java
 Kotlin
